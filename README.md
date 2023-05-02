@@ -1,5 +1,7 @@
 # STARTER-jpa03
 
+Link to running app: http://jpa03-andrewpengucsb.dokku-00.cs.ucsb.edu/
+
 # Getting Started on localhost
 
 Before running the application for the first time on localhost, you must: 
